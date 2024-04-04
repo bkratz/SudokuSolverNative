@@ -1,0 +1,1 @@
+Inspired by and copied from https://github.com/TheAlgorithms/C/blob/master/misc/sudoku_solver.c
